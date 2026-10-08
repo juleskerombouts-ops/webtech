@@ -36,7 +36,7 @@ h2 + p{font-style: italic;}
 
 /* 8. elke link in main wanneer de muis erover gaat OF wanneer ze focus heeft
       -> background-color: yellow; */
-a:hover, a:focus {background-color: yellow;}
+main a:hover, main a:focus {background-color: yellow;}
 
 
 /* ---- Lezen: welke elementen raken deze vijf selectors? Schrijf het antwoord
