@@ -6,3 +6,38 @@
 }
 
 /* === your rules === */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    text-align: center;
+    padding-top: 12rem;
+    max-width: 40rem;
+    font-size: 3rem;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+p {
+    text-align: center;
+    margin-bottom: 2rem;
+    margin: 0 auto;
+    max-width: 40rem;
+    font-size: 0.8rem;
+    margin-bottom: 2rem;
+}
+a {
+background-color: black;
+color: white;
+border-radius: 50rem;
+padding: 0.4rem;
+font-size:small;
+text-decoration: none;
+max-width: 40rem;
+display: block;
+margin: 0 auto;
+width: 7.3rem;
+}
+span {
+    border-bottom: 1rem solid yellow;
+    border-radius: 50%;
+}
