@@ -6,3 +6,34 @@
 }
 
 /* === your rules === */
+main{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: 70vh;
+    width: 70vh;
+    padding: 1vh 1vh;
+    grid-gap: 1rem;
+    background-color: blue;
+    border: 24rem;
+}
+.lila {
+    background-color: #a090af;
+    grid-column: 1/4;
+}
+.bruin {
+    background-color: #a16122;
+}
+.geel {
+    background-color: #e7c948;
+}
+.marine {
+    background-color: #13234e;
+    grid-column: 4/5;
+}
+.olijf {
+    background-color: #ae9310;
+    grid-column: 1/4;
+}
+.rood {
+    background-color: #cd2424;
+}
