@@ -2,7 +2,14 @@
 
 /* === tokens === */
 :root {
-
+    background-color: #ec4b03;
+    
 }
 
 /* === your rules === */
+h1 {
+    text-align: center;
+    padding-top: 20rem;
+    border-radius: 0.75rem;
+    
+}
